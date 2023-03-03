@@ -1,4 +1,4 @@
-# Matrz-por-Dolittle
+# Matriz-por-Dolittle
 Resuelve un sistema de ecuaciones 4x4 por el método Dolittle
 Este código resuelve un sistema de ecuaciones ya definido, puedes cambiarlo, solo debes editar la matriz y el vector soluciones.
 
